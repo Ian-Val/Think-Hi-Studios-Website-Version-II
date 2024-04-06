@@ -1,0 +1,4 @@
+x - A title and logo or splash image.
+x - A mission statement or brief description of the - company.
+x - A list or set of images and titles representing the product or products of the company.
+x - A section describing some of the company’s employees or teammates.
